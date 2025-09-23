@@ -37,14 +37,14 @@ python arp-panel.py
 ## 👀 Preview
 
 **Access Screen:**  
-<img width="422" height="251" alt="Image" src="https://github.com/user-attachments/assets/754fee65-4114-4d1c-aaad-a239d0176431" />
+<img width="422" height="251" alt="Image" src="https://github.com/user-attachments/assets/0068a53d-7a64-4429-9355-7fcfeee4aa0f" />
 
 **Panel Screen:**  
-<img width="600" height="630" alt="Image" src="https://github.com/user-attachments/assets/3ed339a8-1c90-48a5-a650-9728d40045d6" />
+<img width="600" height="630" alt="Image" src="https://github.com/user-attachments/assets/95d7ea8f-7cf3-439c-82de-4f08403aa746" />
 
 ---
 ## 🎥 Video Tutorial
-https://github.com/user-attachments/assets/729d6ac8-940f-4623-94dd-b8e49935af69
+https://github.com/user-attachments/assets/00e71b99-0e0b-4607-bad9-1f68c2633c0a
 
 
 ---
